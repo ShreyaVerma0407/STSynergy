@@ -43,7 +43,7 @@ The models were trained over 100 epochs using dynamic learning rate scheduling a
 ## 📂 Repository Structure
 
 ```text
-Hybrid_Pattern_Recognition/
+STSynergy/
 │
 ├── models/
 │   ├── hybrid_cnn_rnn.py          # Core architecture for the Hybrid CNN-LSTM model
@@ -62,7 +62,7 @@ Hybrid_Pattern_Recognition/
 1. Clone the repository
 Bash
 git clone [https://github.com/ShreyaVerma0407/STSynergy.git]
-cd Hybrid_Pattern_Recognition
+
 2. Install Dependencies
 Ensure you have Python 3.8+ installed, then run:
 
